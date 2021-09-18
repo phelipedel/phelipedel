@@ -1,4 +1,4 @@
-- uses: lowlighter/metrics@latest
+- uses: phelipedel/phelipedel
   with:
     # ... other options
     template: classic
