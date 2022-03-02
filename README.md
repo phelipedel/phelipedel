@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <img align="center" alt="Del" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="right" alt="Me" src="https://cdn.discordapp.com/attachments/639869522387664896/889943841233309737/download20210902153745-removebg-preview.png">
+
 </div>
   
   ##
