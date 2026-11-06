@@ -127,39 +127,24 @@
 ### 📊 Estatísticas do GitHub & Atividade
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/phelipedel">
-          <img height="175em" src="https://github-readme-stats.vercel.app/api?username=phelipedel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=E2E8F0&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/phelipedel">
-          <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipedel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Linguagens Mais Utilizadas" />
-        </a>
-      </td>
-    </tr>
-  </table>
 
-  <br>
+  <!-- ESTATÍSTICAS GERAIS -->
+  <a href="https://github.com/phelipedel">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=phelipedel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=E2E8F0&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+  &nbsp;
+  <!-- LINGUAGENS MAIS UTILIZADAS -->
+  <a href="https://github.com/phelipedel">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=phelipedel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Linguagens Mais Utilizadas" />
+  </a>
 
-  <!-- GITHUB STREAK STATS (OFENSIVA DE COMMITS) -->
+  <br><br>
+
+  <!-- OFENSIVA DE COMMITS (STREAK STATS) -->
   <a href="https://github.com/phelipedel">
     <img src="https://streak-stats.demolab.com?user=phelipedel&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" />
   </a>
-</div>
 
-<br>
-
----
-
-### 📈 Gráfico de Atividade & Commits em Tempo Real
-
-<div align="center">
-  <a href="https://github.com/phelipedel">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=phelipedel&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F43F5E" width="100%" alt="Gráfico de Atividade" />
-  </a>
 </div>
 
 <br>
