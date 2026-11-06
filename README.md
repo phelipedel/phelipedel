@@ -154,10 +154,12 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 📈 Gráfico de Atividade & Commits em Tempo Real
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phelipedel/phelipedel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <a href="https://github.com/phelipedel">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=phelipedel&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F43F5E" width="100%" alt="Gráfico de Atividade" />
+  </a>
 </div>
 
 <br>
